@@ -1,0 +1,1266 @@
+{
+  "exerciseProgram": {
+    "Bigger": {
+      "arm": {
+        "day1": {
+          "description": "Start with basic exercises targeting different parts of your arms.",
+          "exercises": {
+            "Bicep Curls": {
+              "description": "Hold dumbbells with palms facing up. Curl the weights towards your shoulders while keeping your elbows stationary.",
+              "reps": 12,
+              "set": 3
+            },
+            "Tricep Dips": {
+              "description": "Using a stable surface (bench/chair), lower your body by bending your elbows. Push back up to the starting position.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Focus on increasing resistance or weight in your arm exercises.",
+          "exercises": {
+            "Hammer Curls": {
+              "description": "Hold dumbbells with palms facing each other. Curl the weights toward your shoulders while keeping your palms facing in.",
+              "reps": 10,
+              "set": 4
+            },
+            "Overhead Tricep Extension": {
+              "description": "Hold a dumbbell overhead with both hands. Lower the weight behind your head by bending your elbows and then straighten them back up.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day3": {
+          "description": "Incorporate bodyweight exercises for arm strength.",
+          "exercises": {
+            "Chair Dips": {
+              "description": "Sit on the edge of a chair, place your hands next to your hips, and lift your body off the chair. Lower yourself by bending your elbows and then push back up.",
+              "reps": 12,
+              "set": 3
+            },
+            "Push-ups": {
+              "description": "Assume a plank position and lower your body by bending your elbows. Push back up to the starting position.",
+              "reps": 15,
+              "set": 3
+            }
+          }
+        },
+        "day4": {
+          "description": "Incorporate resistance bands for variety in your arm workout.",
+          "exercises": {
+            "Resistance Band Bicep Curls": {
+              "description": "Step on the resistance band with one foot and curl the band up toward your shoulders.",
+              "reps": 12,
+              "set": 3
+            },
+            "Resistance Band Tricep Kickbacks": {
+              "description": "Hold the band under one foot and bend forward slightly. Pull the band back by extending your arm behind you.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day5": {
+          "description": "Focus on endurance and high-repetition arm exercises.",
+          "exercises": {
+            "High-Rep Bicep Curls": {
+              "description": "Use lighter weights and perform bicep curls for higher repetitions.",
+              "reps": 20,
+              "set": 4
+            },
+            "High-Rep Tricep Extensions": {
+              "description": "Use a lighter weight or resistance band for higher reps of tricep extensions.",
+              "reps": 20,
+              "set": 4
+            }
+          }
+        },
+        "day6": {
+          "description": "Incorporate isometric exercises for arm strength and stability.",
+          "exercises": {
+            "Plank with Arm Raise": {
+              "description": "Assume a plank position and raise one arm straight out in front of you. Alternate arms.",
+              "reps": 12,
+              "set": 3
+            },
+            "Wall Sits with Bicep Curls": {
+              "description": "Sit against a wall in a squat position while performing bicep curls with dumbbells.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day7": {
+          "description": "Focus on stretching and recovery for your arms.",
+          "exercises": {
+            "Arm Circles": {
+              "description": "Stand straight and make circular motions with your arms, forwards and backward.",
+              "reps": 3,
+              "set": 3
+            },
+            "Tricep Stretch": {
+              "description": "Bring one arm overhead and bend at the elbow, gently pushing on the elbow with your other hand to stretch the tricep.",
+              "reps": 3,
+              "set": 3
+            }
+          }
+        }
+      },
+      "glute": {
+        "day1": {
+          "description": "Focused on activation and warm-up",
+          "exercises": {
+            "Clamshells": {
+              "description": "Lie on your side, knees bent, lift top knee while keeping feet together.",
+              "reps": 12,
+              "set": 2
+            },
+            "Hip Bridges": {
+              "description": "Lie on your back, bend knees, lift hips up, and squeeze glutes at the top.",
+              "reps": 15,
+              "set": 2
+            }
+          }
+        },
+        "day2": {
+          "description": "Strength and Stability",
+          "exercises": {
+            "Lunges": {
+              "description": "Step forward, lower body until both knees form 90-degree angles.",
+              "reps": 10,
+              "set": 3
+            },
+            "Squats": {
+              "description": "Stand with feet shoulder-width apart, squat down, and push back up.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day3": {
+          "description": "Rest or active recovery",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day4": {
+          "description": "Focus on Isolation",
+          "exercises": {
+            "Donkey Kicks": {
+              "description": "Start on all fours, lift one leg up, keeping knee bent.",
+              "reps": 15,
+              "set": 3
+            },
+            "Fire Hydrants": {
+              "description": "On all fours, lift knee out to the side, keeping hips steady.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day5": {
+          "description": "Plyometrics and Power",
+          "exercises": {
+            "Box Jumps": {
+              "description": "Jump onto a box or platform, then step back down.",
+              "reps": 8,
+              "set": 3
+            },
+            "Jump Squats": {
+              "description": "Perform a squat and explosively jump up as you rise.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day6": {
+          "description": "Active Recovery or Yoga",
+          "exercises": {
+            "Yoga": {
+              "description": "Yoga",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Full Body Integration",
+          "exercises": {
+            "Deadlifts": {
+              "description": "Stand with feet hip-width apart, hinge at hips, and lower weights towards the ground.",
+              "reps": 8,
+              "set": 3
+            },
+            "Step-Ups": {
+              "description": "Step onto a bench or platform, alternating legs.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        }
+      },
+      "leg": {
+        "day1": {
+          "description": "Squats, leg press, leg extensions, leg curls - 4 sets of 6-8 reps.",
+          "exercises": {
+            "leg curls": {
+              "description": "leg curls",
+              "reps": 6,
+              "set": 4
+            },
+            "leg extensions": {
+              "description": "leg extensions",
+              "reps": 6,
+              "set": 4
+            },
+            "leg press": {
+              "description": "leg press",
+              "reps": 6,
+              "set": 4
+            },
+            "squats": {
+              "description": "squats",
+              "reps": 6,
+              "set": 4
+            }
+          }
+        },
+        "day2": {
+          "description": "Walking lunges, calf raises - 3 sets of 10-12 reps.",
+          "exercises": {
+            "calf raises": {
+              "description": "calf raises",
+              "reps": 10,
+              "set": 3
+            },
+            "walking lunges": {
+              "description": "walking lunges",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day3": {
+          "description": "Deadlifts, Romanian deadlifts, leg curls - 4 sets of 6-8 reps.",
+          "exercises": {
+            "deadlifts": {
+              "description": "deadlifts",
+              "reps": 6,
+              "set": 4
+            },
+            "leg curls": {
+              "description": "leg curls",
+              "reps": 6,
+              "set": 4
+            },
+            "romanian deadlifts": {
+              "description": "romanian deadlifts",
+              "reps": 6,
+              "set": 4
+            }
+          }
+        },
+        "day4": {
+          "description": "Active recovery - 30 minutes of walking or light cycling.",
+          "exercises": {
+            "light cycling": {
+              "description": "light cycling",
+              "reps": 1,
+              "set": 1
+            },
+            "walking": {
+              "description": "walking",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Squats, leg press, leg extensions, leg curls - 4 sets of 6-8 reps.",
+          "exercises": {
+            "leg curls": {
+              "description": "leg curls",
+              "reps": 6,
+              "set": 4
+            },
+            "leg extensions": {
+              "description": "leg extensions",
+              "reps": 6,
+              "set": 4
+            },
+            "leg press": {
+              "description": "leg press",
+              "reps": 6,
+              "set": 4
+            },
+            "squats": {
+              "description": "squats",
+              "reps": 6,
+              "set": 4
+            }
+          }
+        },
+        "day6": {
+          "description": "Walking lunges, calf raises - 3 sets of 10-12 reps.",
+          "exercises": {
+            "calf raises": {
+              "description": "calf raises",
+              "reps": 10,
+              "set": 3
+            },
+            "walking lunges": {
+              "description": "walking lunges",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day7": {
+          "description": "Rest",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        }
+      }
+    },
+    "Healthier": {
+      "arm": {
+        "day1": {
+          "description": "Arm Workout - Day 1",
+          "exercises": {
+            "Bicep Curls": {
+              "description": "Hold dumbbells, palms facing up, curl the weights toward your shoulders, and lower them back down.",
+              "reps": 12,
+              "set": 3
+            },
+            "Hammer Curls": {
+              "description": "Hold dumbbells with palms facing each other, curl the weights toward your shoulders, and lower them back down.",
+              "reps": 10,
+              "set": 3
+            },
+            "Tricep Dips": {
+              "description": "Use a bench or chair, lower your body by bending your elbows until they're at 90 degrees, then lift back up.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Arm Workout - Day 3",
+          "exercises": {
+            "Reverse Curls": {
+              "description": "Hold dumbbells with palms facing down, curl the weights toward your shoulders, and lower them back down.",
+              "reps": 10,
+              "set": 3
+            },
+            "Shoulder Press": {
+              "description": "Hold dumbbells at shoulder height, press weights upward until arms are fully extended, and lower back down.",
+              "reps": 10,
+              "set": 3
+            },
+            "Tricep Kickbacks": {
+              "description": "Hold dumbbells, bend your upper body forward, extend your arms back, and then return to the starting position.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        }
+      },
+      "glute": {
+        "day1": {
+          "description": "Glute Workout - Day 1",
+          "exercises": {
+            "Donkey Kicks": {
+              "description": "Get on all fours, lift one leg, keeping the knee bent, and push the sole of your foot toward the ceiling.",
+              "reps": 12,
+              "set": 3
+            },
+            "Fire Hydrants": {
+              "description": "On all fours, lift one leg out to the side, keeping the knee bent, then lower it back down.",
+              "reps": 10,
+              "set": 3
+            },
+            "Hip Thrusts": {
+              "description": "Sit on the ground, lean against a bench, roll a barbell over your hips, and thrust upward, squeezing your glutes at the top.",
+              "reps": 15,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Glute Workout - Day 3",
+          "exercises": {
+            "Clamshells": {
+              "description": "Lie on your side, knees bent, and lift the top knee while keeping the feet together.",
+              "reps": 12,
+              "set": 3
+            },
+            "Glute Bridges": {
+              "description": "Lie on your back, bend your knees, lift your hips toward the ceiling, and squeeze your glutes at the top.",
+              "reps": 12,
+              "set": 3
+            },
+            "Single-Leg Romanian Deadlifts": {
+              "description": "Stand on one leg, hinge at the hips, and lower the weights toward the ground while lifting the non-standing leg behind you.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        }
+      },
+      "leg": {
+        "day1": {
+          "description": "Leg Workout - Day 1",
+          "exercises": {
+            "Leg Press": {
+              "description": "Sit in the leg press machine, press the platform away from your body, extending your legs, then return to the starting position.",
+              "reps": 15,
+              "set": 3
+            },
+            "Lunges": {
+              "description": "Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle, then return to the starting position.",
+              "reps": 10,
+              "set": 3
+            },
+            "Squats": {
+              "description": "Stand with feet shoulder-width apart, bend knees and lower your hips down as if sitting in a chair, then return to standing.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Leg Workout - Day 3",
+          "exercises": {
+            "Calf Raises": {
+              "description": "Stand on a raised surface, raise heels by extending ankles as high as possible, then lower back down.",
+              "reps": 15,
+              "set": 3
+            },
+            "Deadlifts": {
+              "description": "Stand with feet hip-width apart, bend at the hips and knees to lower the weights, then return to the standing position.",
+              "reps": 8,
+              "set": 4
+            },
+            "Step-Ups": {
+              "description": "Step onto a bench or elevated platform with one foot, push through the heel and lift the body up, then step back down.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Rest or Active Recovery",
+          "exercises": {
+            "Yoga": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        }
+      }
+    },
+    "Leaner": {
+      "arm": {
+        "day1": {
+          "description": "Arm Day - Focus on biceps, triceps, and shoulders",
+          "exercises": {
+            "Bicep Curls": {
+              "description": "Hold dumbbells with palms facing up, curl weights towards shoulders while keeping elbows stationary.",
+              "reps": 12,
+              "set": 3
+            },
+            "Shoulder Press": {
+              "description": "Hold dumbbells at shoulder height, push weights overhead, and then lower them back down.",
+              "reps": 12,
+              "set": 3
+            },
+            "Tricep Dips": {
+              "description": "Using a bench or chair, lower your body by bending arms at the elbows until your arms are at a 90-degree angle.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest or active recovery day for arms",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Arm Day - Variation and increased intensity",
+          "exercises": {
+            "Hammer Curls": {
+              "description": "Hold dumbbells with palms facing each other, curl weights towards shoulders while keeping elbows close to the body.",
+              "reps": 10,
+              "set": 4
+            },
+            "Lateral Raises": {
+              "description": "Hold dumbbells at sides, raise arms out to the sides until they're parallel to the ground, then lower back down.",
+              "reps": 12,
+              "set": 3
+            },
+            "Tricep Extensions": {
+              "description": "Hold a dumbbell with both hands above your head, lower the weight behind your head by bending elbows, then extend arms.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest or active recovery day for arms",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Arm Day - Endurance and conditioning",
+          "exercises": {
+            "Front Raises": {
+              "description": "Hold dumbbells in front of thighs, raise arms straight up to shoulder height, then lower back down.",
+              "reps": 12,
+              "set": 3
+            },
+            "Reverse Curls": {
+              "description": "Hold dumbbells with palms facing down, curl weights towards shoulders while keeping elbows stationary.",
+              "reps": 15,
+              "set": 3
+            },
+            "Tricep Kickbacks": {
+              "description": "Hold dumbbells, hinge at the waist, extend arms back, and squeeze triceps at the top.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest or active recovery day for arms",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Rest day for full recovery",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        }
+      },
+      "glute": {
+        "day1": {
+          "description": "Glute Day - Focus on strengthening and toning gluteal muscles",
+          "exercises": {
+            "Donkey Kicks": {
+              "description": "Position on all fours, kick one leg back while keeping it bent, squeezing the glutes at the top. Alternate legs.",
+              "reps": 15,
+              "set": 3
+            },
+            "Glute Bridges": {
+              "description": "Lie on your back with knees bent, lift hips off the ground by squeezing glutes, then lower back down.",
+              "reps": 12,
+              "set": 3
+            },
+            "Hip Thrusts": {
+              "description": "Sit on the ground with your upper back against a bench, feet planted, and push hips up, squeezing glutes at the top.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest or active recovery day for glutes",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Glute Day - Variation and increased intensity",
+          "exercises": {
+            "Banded Squats": {
+              "description": "Perform squats with a resistance band around your thighs just above the knees to engage glutes more.",
+              "reps": 12,
+              "set": 4
+            },
+            "Fire Hydrants": {
+              "description": "Position on all fours, lift one knee out to the side while keeping the hips stable. Alternate legs.",
+              "reps": 15,
+              "set": 3
+            },
+            "Single-Leg Deadlifts": {
+              "description": "Stand on one leg, hinge at the hips to lower weights toward the floor while extending the other leg behind for balance.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest or active recovery day for glutes",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Glute Day - Endurance and conditioning",
+          "exercises": {
+            "Kettlebell Swings": {
+              "description": "Hold a kettlebell with both hands, hinge at the hips, and swing it up to shoulder height, using glutes and core.",
+              "reps": 20,
+              "set": 3
+            },
+            "Pulse Lunges": {
+              "description": "Perform lunges, but instead of coming back up completely, pulse slightly in the lowered position.",
+              "reps": "10 pulses each leg",
+              "set": 3
+            },
+            "Sumo Squats": {
+              "description": "Stand with feet wider than shoulder-width apart, toes pointed out. Squat down, keeping knees in line with toes.",
+              "reps": 15,
+              "set": 3
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest or active recovery day for glutes",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Rest day for full recovery",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        }
+      },
+      "leg": {
+        "day1": {
+          "description": "Leg Day - Focus on quadriceps, hamstrings, and calves",
+          "exercises": {
+            "Calf Raises": {
+              "description": "Stand on the edge of a step or platform, raise heels by extending ankles as high as possible, then lower back down.",
+              "reps": 15,
+              "set": 3
+            },
+            "Lunges": {
+              "description": "Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle. Alternate legs.",
+              "reps": 10,
+              "set": 3
+            },
+            "Squats": {
+              "description": "Stand with feet shoulder-width apart, lower your body as if sitting back into a chair, then return to standing.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest or active recovery day for legs",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Leg Day - Variation and increased intensity",
+          "exercises": {
+            "Deadlifts": {
+              "description": "Stand with feet hip-width apart, bend at the hips and knees to lower the weights, keeping your back straight, then return to standing.",
+              "reps": 8,
+              "set": 4
+            },
+            "Leg Press": {
+              "description": "Sit on a leg press machine, press the weight away from your body, and then slowly bring it back towards you.",
+              "reps": 12,
+              "set": 3
+            },
+            "Step-Ups": {
+              "description": "Step onto a platform with one foot, push through the heel to lift your body up, then step back down. Alternate legs.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest or active recovery day for legs",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Leg Day - Endurance and conditioning",
+          "exercises": {
+            "Box Jumps": {
+              "description": "Stand in front of a box, jump onto the box and then step or jump back down. Use a challenging height.",
+              "reps": 10,
+              "set": 3
+            },
+            "Jump Squats": {
+              "description": "Perform squats and explode upward into a jump, land softly, and immediately go into the next squat.",
+              "reps": 15,
+              "set": 3
+            },
+            "Walking Lunges": {
+              "description": "Take a step forward into a lunge, then bring the back leg forward to meet the front leg. Keep alternating.",
+              "reps": "30 steps",
+              "set": 3
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest or active recovery day for legs",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Rest day for full recovery",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        }
+      }
+    },
+    "Stronger": {
+      "arm": {
+        "day1": {
+          "description": "Day 1 focuses on building arm strength.",
+          "exercises": {
+            "Bicep Curls": {
+              "description": "Hold dumbbells at your sides with palms facing up. Curl the weights toward your shoulders, keeping your elbows close to your body. Slowly lower the weights back down.",
+              "reps": 12,
+              "set": 3
+            },
+            "Tricep Dips": {
+              "description": "Use parallel bars or a sturdy surface. Lower your body by bending your elbows until they are at a 90-degree angle. Push yourself back up using your triceps.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest day for arm muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Day 3 continues arm muscle strengthening.",
+          "exercises": {
+            "Hammer Curls": {
+              "description": "Hold dumbbells with palms facing each other. Curl the weights toward your shoulders while keeping your palms facing inward.",
+              "reps": 10,
+              "set": 3
+            },
+            "Push-Ups": {
+              "description": "Assume a plank position, lower your body by bending your elbows. Push back up to the starting position.",
+              "reps": 15,
+              "set": 4
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest day for arm muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Day 5 focuses on endurance and toning arm muscles.",
+          "exercises": {
+            "Plank with Lateral Arm Raises": {
+              "description": "Start in a plank position, lift one arm out to the side while maintaining a stable core. Alternate arms.",
+              "reps": 10,
+              "set": 3
+            },
+            "Tricep Kickbacks": {
+              "description": "Hold a dumbbell in each hand, hinge forward at the hips, and extend your arms straight back, squeezing the triceps. Return to the starting position.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest day for arm muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Day 7 focuses on building arm muscle endurance.",
+          "exercises": {
+            "Diamond Push-Ups": {
+              "description": "Assume a push-up position with hands close together to form a diamond shape. Lower your body while keeping elbows close to your sides.",
+              "reps": 12,
+              "set": 4
+            },
+            "Reverse Curls": {
+              "description": "Hold dumbbells with palms facing down. Curl the weights toward your shoulders while keeping your palms facing downward.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        }
+      },
+      "glute": {
+        "day1": {
+          "description": "Day 1 focuses on activating and strengthening the glutes.",
+          "exercises": {
+            "Donkey Kicks": {
+              "description": "Get on all fours. Lift one leg, keeping the knee bent, and push the sole of your foot toward the ceiling. Lower the leg back down without touching the floor and repeat.",
+              "reps": 12,
+              "set": 3
+            },
+            "Hip Thrusts": {
+              "description": "Sit on the ground with your upper back against a bench. Roll a barbell over your hips. Thrust your hips upward, squeezing your glutes at the top.",
+              "reps": 15,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest day for glute muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Day 3 continues glute muscle activation.",
+          "exercises": {
+            "Fire Hydrants": {
+              "description": "On all fours, lift one knee out to the side, keeping the knee bent. Lower back down and repeat on the other side.",
+              "reps": 15,
+              "set": 3
+            },
+            "Glute Bridges": {
+              "description": "Lie on your back with knees bent. Lift your hips off the ground, squeezing your glutes at the top. Lower and repeat.",
+              "reps": 10,
+              "set": 4
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest day for glute muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Day 5 focuses on toning and shaping glute muscles.",
+          "exercises": {
+            "Banded Lateral Walks": {
+              "description": "Place a resistance band around your thighs. Step sideways, maintaining tension on the band. Alternate directions.",
+              "reps": "20 steps each side",
+              "set": 3
+            },
+            "Sumo Squats": {
+              "description": "Stand with feet wider than shoulder-width apart. Squat down, keeping your chest up and back straight. Return to standing position.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest day for glute muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Day 7 focuses on power and strength in the glutes.",
+          "exercises": {
+            "Barbell Hip Thrusts": {
+              "description": "Use a barbell across your hips. Perform hip thrusts, emphasizing full hip extension at the top.",
+              "reps": 12,
+              "set": 4
+            },
+            "Single-Leg Romanian Deadlifts": {
+              "description": "Hold a dumbbell in one hand. Hinge at the hips and lower the weight toward the ground while raising one leg behind you. Return to starting position and switch legs.",
+              "reps": 10,
+              "set": 3
+            }
+          }
+        }
+      },
+      "leg": {
+        "day1": {
+          "description": "Day 1 focuses on building leg strength.",
+          "exercises": {
+            "Lunges": {
+              "description": "Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle. Push back up to the starting position and alternate legs.",
+              "reps": 10,
+              "set": 3
+            },
+            "Squats": {
+              "description": "Stand with feet shoulder-width apart. Lower your body by bending your knees. Keep your back straight. Push through your heels to return to the starting position.",
+              "reps": 12,
+              "set": 3
+            }
+          }
+        },
+        "day2": {
+          "description": "Rest day for leg muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day3": {
+          "description": "Day 3 continues leg muscle strengthening.",
+          "exercises": {
+            "Calf Raises": {
+              "description": "Stand on the edge of a step or platform. Raise your heels above the edge, then lower them below the platform to stretch the calves.",
+              "reps": 15,
+              "set": 3
+            },
+            "Deadlifts": {
+              "description": "Stand with feet hip-width apart. Bend at the hips and knees, keeping your back straight, and lift the weights. Return to the starting position.",
+              "reps": 8,
+              "set": 4
+            }
+          }
+        },
+        "day4": {
+          "description": "Rest day for leg muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day5": {
+          "description": "Day 5 focuses on endurance and toning leg muscles.",
+          "exercises": {
+            "Step-Ups": {
+              "description": "Step onto a platform or bench with one foot, then bring the other foot up. Step back down and alternate legs.",
+              "reps": 12,
+              "set": 3
+            },
+            "Wall Sits": {
+              "description": "Lean against a wall, slide down until your knees are at a 90-degree angle, and hold the position.",
+              "set": 3,
+              "time": "1 minute"
+            }
+          }
+        },
+        "day6": {
+          "description": "Rest day for leg muscles.",
+          "exercises": {
+            "Rest": {
+              "description": "Rest",
+              "reps": 1,
+              "set": 1
+            }
+          }
+        },
+        "day7": {
+          "description": "Day 7 focuses on explosive leg movements.",
+          "exercises": {
+            "Box Jumps": {
+              "description": "Stand in front of a sturdy box or platform. Jump onto the box, landing softly with both feet. Step back down and repeat.",
+              "reps": 8,
+              "set": 4
+            },
+            "Sprints": {
+              "description": "Sprint at maximum effort for a short distance, then walk or jog to recover. Repeat for multiple intervals.",
+              "reps": "4 intervals",
+              "set": 3
+            }
+          }
+        }
+      }
+    }
+  },
+  "feedlist": {
+    "feed": {
+      "author": "henree",
+      "content": "something something something something something something",
+      "thumbnail": "//image/thumbnail1.png",
+      "title": "How to get Leaner"
+    }
+  },
+  "userdata": {
+    "5eFQohmnnSSIK5mMpFSRxihKhUG2": {
+      "email": "mishelmilen@gmail.com",
+      "exerciseProgram": "none",
+      "name": "mishel",
+      "plan": {
+        "-NlQfDRY1i-1BTmp2cyU": "haha"
+      }
+    },
+    "6wmqCPwMsGfQz40l3YpvGAxVN7m2": {
+      "email": "ayu@gmail.com",
+      "exerciseProgram": "Healthier",
+      "name": "ayu",
+      "plan": {
+        "-Nm6WXbPZD1KoKlezjdJ": "Drink Water",
+        "-NmACBUGv5TknymZuLUm": "Yoga"
+      }
+    },
+    "DCNg1LXP90gPk8DOyuT1a0WRy8I2": {
+      "email": "tes@gmail.com",
+      "exerciseProgram": "Bigger",
+      "name": "tes",
+      "plan": {
+        "-Nm6JuG-uGcKE_c27fKp": "test"
+      }
+    },
+    "JNyVg0hFbMYWNOTXY3pz5EW4SDp2": {
+      "email": "halo@gmail.com",
+      "exerciseProgram": "Stronger",
+      "name": "hallo"
+    },
+    "LSdZOA8kU3VvS0TmputCO1LzyAb2": {
+      "email": "ayufebrianalingga@gmail.com",
+      "exerciseProgram": "none",
+      "name": "Ayu",
+      "plan": {
+        "-NlQgBFwm-CYzm3zCw0_": "New",
+        "-NlQgLSaz-aIl_P7BDZw": "Hehe"
+      }
+    },
+    "PavdmUBXFIb3suFPmWM6KUZb6h62": {
+      "exerciseProgram": "Healthier"
+    },
+    "SrrI8FHzDuT7cKfYVZZo1VxYkJh1": {
+      "email": "gilberthenrymm@gmail.com",
+      "exerciseProgram": "Healthier",
+      "name": "tes123",
+      "plan": {
+        "-Nm4vbyVKoBwLWt99aq_": "jxjjd"
+      }
+    },
+    "bA0RdqlWVeg6vyGq6wZLeRcJPdD2": {
+      "email": "mishelmilen10@gmail.com",
+      "exerciseProgram": "none",
+      "name": "Mishel Milen"
+    }
+  }
+}
